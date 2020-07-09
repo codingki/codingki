@@ -1,7 +1,6 @@
 ### Hi there 👋
 I'm Kiki--
-Im a guy that can code and lil bit design, but internet makes me can do anything.  
-I think Im a like front end guy or something, 
+Im a guy that can code and lil bit design, but internet makes me can do anything.
 
 🔭 Currently building a startup that doesn't know what it's called yet
 
