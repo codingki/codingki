@@ -2,13 +2,6 @@
 I'm Kiki--
 Im a guy that can code and lil bit design, but internet makes me can do anything.
 
-🔭 Currently building a startup that doesn't know what it's called yet
-
-### Hey I created a game 
-try it on web : https://color-sense.netlify.app/
-
-try it on android : https://play.google.com/store/apps/details?id=com.essence.colorsense
-
 ### Links
 Twitter : https://twitter.com/kikiding/
 
