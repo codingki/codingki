@@ -2,7 +2,6 @@
 My name is Kiki--
 Im a guy that can code and  design, but internet makes me can do anything.
 
-Ignore my college assignments repo :D
 
 ### Links
 Web : https://kikiding.space/
