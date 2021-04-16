@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Kiki--
-Im a guy that can code and  design, but internet makes me can do anything.
+I'm a designer who trapped in the mind of a programmer. Crafting beautiful apps with React and ❤️
 
 
 ### Links
